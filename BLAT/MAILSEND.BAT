@@ -1,0 +1,1 @@
+blat -t edifact@hogast.at -c office@baeckerei-kern.at -s DESADV -body "DESADV fÅr Lieferung 13.12.12" -attach f:\bug\DESADV.HOG -server bsmtp.telekom.at -f office@baeckerei-kern.at -log mailog.dat 
